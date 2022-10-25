@@ -1,0 +1,11 @@
+body, html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topnav{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+.nav .links li.active{
+    background-color: red;
+}
